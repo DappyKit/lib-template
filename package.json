@@ -1,5 +1,5 @@
 {
-  "name": "my-library",
+  "name": "@dappykit/my-library",
   "version": "1.0.0",
   "description": "Library for Node.js and the browser using Typescript template",
   "main": "index.ts",

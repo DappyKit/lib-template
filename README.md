@@ -12,6 +12,8 @@ Welcome to MyLibrary, a ready-to-use TypeScript template for building libraries 
 ## Getting Started
 To get started, clone this repository to your local machine and run `npm ci`.
 
+`npx @dappykit/my-library my-new-lib`
+
 ## Project Structure
 Here's a brief overview of the key files and directories in this template:
 

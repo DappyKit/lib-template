@@ -1,6 +1,6 @@
 {
   "name": "my-library",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Library for Node.js and the browser using Typescript template",
   "main": "index.ts",
   "types": "dist/src/index.d.ts",

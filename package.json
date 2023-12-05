@@ -1,6 +1,6 @@
 {
   "name": "@dappykit/my-library",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Library for Node.js and the browser using Typescript template",
   "main": "dist/index.min.js",
   "types": "dist/src/index.d.ts",
